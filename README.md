@@ -30,3 +30,6 @@ List any online courses, books, or tutorials used during the challenge.
 Thank you for joining me on this exciting Python learning journey! Let's make each day count. Happy coding! 🐍
 
 `print(HELLO WORLD, HELLO PYTHON")`
+
+## Motive
+- I am willing to continue even after the 100 Days, as I would like to explore Python in the basis of **Networking**, **Automating** and other aspects of Cyber Security.
