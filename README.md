@@ -27,7 +27,7 @@ List any online courses, books, or tutorials used during the challenge.
 - [Black Hat Python by Justin Seitz]: [Hard Copy Book]
 
 
-Thank you for joining me on this exciting Python learning journey! Let's make each day count. Happy coding! 🐍
+Thank you for joining me on this exciting Python learning journey! Let's make each day count. Happy coding!
 
 `print(HELLO WORLD, HELLO PYTHON")`
 
